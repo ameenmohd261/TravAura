@@ -48,9 +48,9 @@ We welcome contributions to Travaura! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-- Project Maintainer: Ameen Mohammed
+- Project Maintainer: Mohd Ameen 
 - GitHub: [@ameenmohd261](https://github.com/ameenmohd261)
-- Email: contact@travaura.com
+- Email: official.mohd.ameen.siddiqui@gmail.com
 
 ## Acknowledgements
 - Thanks to all contributors who have helped make Travaura better
